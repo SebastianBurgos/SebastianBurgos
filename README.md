@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SebastianBurgos, computer and systems engineering student.
 - 👀 I’m interested in code, new technologies and development projects.
+- ✨ I have intermediate knowledge in JAVA with graphical interface through JavaFX with the model view controller MVC.
 - 🌱 I’m currently learning JAVA with Gradle, Spring Boot, Hibernate and Loombok, Databases and SQL with MySQL, and a little bit about Elixir.
 
 <!---
