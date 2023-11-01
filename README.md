@@ -5,7 +5,7 @@
 - 💧 Also, I have learn a little bit about functional programming with Elixir.
 - 🐋 I have knowledge in virtualization with VirtualBox, multipass and developing containers with Docker, and building them with Dockerfiles and orchestrate several containers with Docker Compose.
 - 🦖 Microservices knowledge with REST API development (JAVA JEE Spring Boot, Python, NodeJS, Golang)
-- 🤓 Actually, I'm colaborating at development of a SaaS with Spring Boot and PostgreSQL, and I'm learning to develop complete stack web apps with framework Reflex with Python.
+- 🤓 Actually, I'm colaborating at development of a SaaS with Spring Boot and PostgreSQL.
 
 <!---
 SebastianBurgos/SebastianBurgos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
