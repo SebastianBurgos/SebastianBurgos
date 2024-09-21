@@ -19,7 +19,7 @@
 - ### 🔍 OpenAPI Specification, Swagger, Gherkin.
 - ### ⚙️ Linux, 🐋 Docker, Docker Compose, DockerHub, VirtualBox.
 - ### 🐍 Python, Flask.
-- ### 🦭 Golang, Gorm, Gi, Gorilla Mux.
+- ### 🦭 Golang, Gorm, Gin, Gorilla Mux.
 - ### 🔥 Faker, Email Services, Security JWT Tokens.
 - ### 🪙 AWS EC2.
 <!---
