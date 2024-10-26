@@ -19,21 +19,13 @@
 - 🔰 Security with JWT and knowledge in computer security.
 
 ## Languajes and Technologies
-- ### 🍵 JAVA, 🍃 Spring Boot.
-- ### 🍁 Maven, 🐘 Gradle.
+- ### 🍵 JAVA, 🍃 Spring Boot. 🍁 Maven, 🐘 Gradle. 🍀 NodeJS, Express, Web 3 (HTML, CSS, Javascript).
 - ### 🐈‍⬛ Git, GitHub.
-- ### 🍀 NodeJS, Express, Web 3 (HTML, CSS, Javascript).
-- ### 🎛️ Microservices, RabbitMQ, API Gateway, Reverse Proxy.
-- ### 🔍 OpenAPI Specification, Swagger, Gherkin.
-- ### ⚙️ GNU/Linux, Shell Script,
-- ### 🐋 Docker, Docker Compose, VirtualBox.
-- ### 📦 Kubernetes.
-- ### 🐍 Python, Flask.
-- ### 🦭 Golang, Gorm, Gin, Gorilla Mux.
+- ### 🎛️ Microservices, RabbitMQ, API Gateway, Reverse Proxy. 🔍 OpenAPI Specification, Swagger, Gherkin.
+- ### ⚙️ GNU/Linux, Shell Script. 🐋 Docker, Docker Compose, VirtualBox. 📦 Kubernetes.
+- ### 🦭 Golang, Gorm, Gin, Gorilla Mux. 🐍 Python, Flask.
 - ### 🔥 Faker, Email Services, Security JWT Tokens, OAuth 2.0.
-- ### 🪙 AWS EC2.
-- ### 🅰️ Ansible.
-- ### 📊 Grafana, Prometheus.
+- ### 🪙 AWS EC2. 🅰️ Ansible. 📊 Grafana, Prometheus.
 <!---
 SebastianBurgos/SebastianBurgos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
