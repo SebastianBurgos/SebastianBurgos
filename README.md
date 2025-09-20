@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @SebastianBurgos, software engineering student.
+## 👋 Hi, I’m @SebastianBurgos, software engineering.
 - 🤓 Actually, I'm working as Cloud Engineering at *VCSOFT*.
 - 👀 I’m interested in code, new technologies and development projects.
 - ✨ I have knowledges in Java, Spring Boot and Web with JSF and Thymeleaf.
